@@ -1,0 +1,11 @@
+# Deep Learning & Logging
+torch
+wandb
+imageio
+
+# Multi-Agent Environments
+mpe2
+git+https://github.com/oxwhirl/smac.git
+
+# SuperSuit (Pinned to commit e2c4f84 for the multi-core fix)
+git+https://github.com/Farama-Foundation/SuperSuit.git@e2c4f84f3c4af0df26ec204d873afa826728bbc6
