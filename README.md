@@ -9,4 +9,4 @@ Steps to reproduce results:
 2. Change wandb entity in eeml.ipynb from "godjan-yuki-the-seal" to your own one. Also you would need to have an account at https://wandb.ai/, it's free
 3. Execute cells of eeml.ipynb in consecutive order to launch training.
    - if you'd like to run only SMAC environment(longer), then you can ignore cells marked with "# Only related to MPE Simple spread"
-   - if you'd like to run only MPE Simple spread(faster), then you can ignore cells marked with 
+   - if you'd like to run only MPE Simple spread(faster), then you can ignore cells marked with "# Only related to SMAC"
