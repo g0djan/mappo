@@ -11,4 +11,3 @@ Steps to reproduce results:
    - if you'd like to run only SMAC environment(longer), then you can ignore cells marked with "# Only related to MPE Simple spread"
    - if you'd like to run only MPE Simple spread(faster), then you can ignore cells marked with "# Only related to SMAC"
    - if you'd like to check that Agent Specific states improve MAPPO set self.enable_as_states to False in the Smac5v6Training class
-   - if you'd like to try "bugged" version that has better convergence on Simple Spread set self.enable_bug_version to True in SimpleSpreadContTraining
